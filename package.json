@@ -1,0 +1,8 @@
+{
+  "name": "hello",
+  "subdomain": "hellofromdominic",
+  "scripts": {
+    "start": "server.js"
+  },
+  "version": "0.0.0"
+}
